@@ -1,12 +1,10 @@
-package main
+package go_sms
 
 import (
 	"fmt"
 )
 
-func main()  {
-	fmt.Println("go day 09")
-}
+
 
 func Test()  {
 	fmt.Println("go-sms")
